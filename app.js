@@ -7,34 +7,34 @@ var b = 20;
 
 //Addition
 
-function addSum(param1, param2) {
+function addition(param1, param2) {
     console.log(param1 + param2);
 }
-addSum(a,b);
+addition(a,b)
 
 
 
 //Subtraction
 
-function subDiff(param1, param2) {
+function subtraction(param1, param2) {
     console.log(param1-param2);
 }
-subDiff(a,b)
+subtraction(a,b)
 
 
 
 //Multiplication
 
-function proSum(param1, param2) {
+function product(param1, param2) {
     console.log(param1*param2);
 }
-proSum(a,b)
+product(a,b)
 
 
 
 //Division
 
-function quoDiff(param1, param2) {
+function quotient(param1, param2) {
     console.log(param1/param2)
 }
-quoDiff(a,b)
+quotient(a,b)
